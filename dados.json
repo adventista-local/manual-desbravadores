@@ -12,30 +12,146 @@
     ],
     "especialidades": [
         {
-            "id": "ad-003",
+            "id": "ad-001",
             "categoriaId": "adra",
-            "codigo": "AD 003",
-            "nome": "Serviço Comunitário",
+            "codigo": "AD 001",
+            "nome": "Alívio da fome",
             "nivel": 1,
             "ano": 2005,
             "requisitos": [
-                "Ler os seguintes textos bíblicos e explicar o que eles ensinam a respeito do papel que Deus espera que cada cristão desempenhe para satisfazer as necessidades dos pobres e sofredores na comunidade.",
-                "Explique o seguinte ao seu instrutor: a) Qual é o significado do acrônimo ADRA? Apresentar uma breve explanação do que cada letra representa e explicar a diferença entre 'assistência' e 'desenvolvimento'. b) Qual o nome do serviço social prestado pela Igreja Adventista local que ajuda os pobres e sofredores em seu entorno?",
+                "Assistir a uma reportagem referente ao tema da fome no mundo e discutir com a sua unidade do Clube de Desbravadores os passos que estão sendo tomados para reduzi-la.",
+                "Entrevistar uma pessoa que conduz distribuição de alimentos em sua área. Pode ser o líder da ASA de sua igreja, de outra igreja, ou de um centro / restaurante comunitário. Pergunte-lhe sobre que tipo de pessoas são atendidas, o que as levam a necessitarem de alimento e como essas necessidades estão sendo satisfeitas. Fazer anotações durante a entrevista e compartilhar os resultados com seu instrutor.",
+                "Descrever as causas da fome em seu país. Você poderá fazer isso através de uma redação (com, pelo menos, 500 palavras), uma apresentação audiovisual (de, pelo menos, 10 minutos), uma encenação ou produzindo um vídeo de cerca de 1 minuto.",
+                "Fazer uma coleta de itens alimentícios para a ASA da sua igreja, de outra igreja, ou centro / restaurante comunitário ou, se isso não for possível, escolher uma família que precisa de assistência e lhe entregar os itens coletados. Obs.: A sugestão é que sejam arrecadados pelo menos 50 alimentos não perecíveis. Deve-se prestar muita atenção ao prazo de validade dos produtos coletados...",
+                "Visitar um banco de alimentos, um centro de distribuição de alimentos ou um restaurante ou cozinha comunitária e dispor-se como voluntário para ajudar o pessoal que trabalha no estabelecimento. Conversar com eles para saber como os alimentos são obtidos e quais são alguns dos desafios para consegui-los, armazená-los e distribuí-los."
+            ]
+        },
+        {
+            "id": "ad-002",
+            "categoriaId": "adra",
+            "codigo": "AD 002",
+            "nome": "Avaliação da comunidade",
+            "nivel": 1,
+            "ano": 2005,
+            "requisitos": [
+                "Selecionar uma comunidade ou área urbana com a qual esteja familiarizado e descrever, da melhor forma possível, as seguintes informações: a) Localização em um mapa, b) Demografia (nº de habitantes, distribuídos por sexo e idade), c) Condições socioeconômicas, d) Ocupações laborais mais comuns, e) Acesso à rede educacional e de saúde, f) Nível de educação, g) Nível de segurança, h) Outros dados que achar relevantes.",
+                "Listar as necessidades que você vê em sua comunidade. Isso pode incluir melhor apoio a famílias de baixa renda, assistência a idosos que vivem sozinhos, melhora na limpeza das áreas públicas, etc.",
+                "Entrevistar um líder comunitário, professor, pastor de igreja ou oficial de polícia para saber como pessoas como você poderiam exercer impacto positivo em tal comunidade ou área. Fazer anotações.",
+                "Preparar um relatório para o seu Clube de Desbravadores apresentando suas descobertas e descrever o que você aprendeu especificamente a respeito da comunidade ou área que escolheu. Seja criativo.",
+                "Descrever as melhorias mais importantes necessárias à sua comunidade e o que você pode fazer para ajudar."
+            ]
+        },
+        {
+            "id": "ad-003",
+            "categoriaId": "adra",
+            "codigo": "AD 003",
+            "nome": "Serviço comunitário",
+            "nivel": 1,
+            "ano": 2005,
+            "requisitos": [
+                "Ler os seguintes textos bíblicos e explicar o que eles ensinam a respeito do papel que Deus espera que cada cristão desempenhe para satisfazer as necessidades dos pobres e sofredores na comunidade: a) Isaías 58:3-12, b) Lucas 10: 25-37, c) Mateus 25:31-46.",
+                "Explique o seguinte ao seu instrutor: a) Qual é o significado do acrônimo ADRA? Apresentar uma breve explanação do que cada letra representa e explicar a diferença entre 'assistência' e 'desenvolvimento'. b) Qual o nome do serviço social prestado pela Igreja Adventista local que ajuda os pobres e sofredores em seu entorno? Que tipos de serviços ele provê?",
                 "Reunir-se com o líder da Ação Solidária Adventista em sua área e perguntar a respeito dos projetos que sua unidade ou Clube de Desbravadores pode ajudar para satisfazer às necessidades da comunidade local.",
                 "Planejar um projeto de serviço comunitário com a unidade ou Clube de Desbravadores e concluí-lo. Este projeto deve focar certas necessidades que sua comunidade apresenta. O tempo total, desde o planejamento até sua realização, deve ser de aproximadamente 10 horas."
             ]
         },
         {
-            "id": "hm-060",
-            "categoriaId": "artes",
-            "codigo": "HM 060",
-            "nome": "Origami",
+            "id": "ad-004",
+            "categoriaId": "adra",
+            "codigo": "AD 004",
+            "nome": "Resposta a emergências e desastres",
             "nivel": 1,
-            "ano": 1997,
+            "ano": 2005,
             "requisitos": [
-                "Definir o que é um origami. Conhecer sua história e desenvolvimento em diferentes países.",
-                "Definir quais são os principais usos do origami atualmente e qual a diferença em relação a como era usado no passado.",
-                "Explicar a importância e utilidade dos diagramas. Conhecer os principais símbolos usados neles."
+                "Explicar os tipos de danos mais prováveis de ocorrer às casas, indivíduos e comunidades diante dos principais tipos de emergências e desastres e indicar em qual parte do mundo eles ocorrem com mais frequência: a) Ciclones (furacões e tufões), b) Tornados, c) Inundações, d) Terremotos, e) Tsunamis, f) Incêndios, g) Guerras / conflitos ou guerras civis.",
+                "Descrever brevemente os tipos de serviços prestados pela ADRA ou por outros órgãos de resposta a emergências e desastres locais aos sobreviventes de tais eventos em seu país.",
+                "Ler um jornal ou notícias da ADRA referente a emergências e desastres recentes e discutir quais são algumas coisas importantes a se ter em mente ao responder a uma situação dessas.",
+                "Explicar o que significa cada letra do acrônimo da ADRA e descreva o papel dela na resposta a emergências e desastres.",
+                "Descrever, pelo menos, uma destas organizações de resposta a emergências e desastres e como ela pode trabalhar com a ADRA durante tais situações: a) Cruz Vermelha, b) Ação Solidária Adventista (ASA), c) ACNUR, d) Programa Alimentar Mundial (PAM).",
+                "Explicar o papel do governo diante da ocorrência de uma emergência ou desastre e identificar a agência governamental chave em seu país que administra a resposta em tais situações.",
+                "Descobrir na Bíblia um texto que possa ser usado para confortar e animar um indivíduo da sua idade e do mesmo sexo, que experimentou perda total de sua casa, e dizer-lhe porque você escolheu esse texto."
+            ]
+        },
+        {
+            "id": "ad-005",
+            "categoriaId": "adra",
+            "codigo": "AD 005",
+            "nome": "Resposta a emergências e desastres - avançado",
+            "nivel": 2,
+            "ano": 2009,
+            "requisitos": [
+                "Ter a especialidade de Resposta a emergências e desastres.",
+                "Descrever as causas subjacentes de cada um desses cenários de desastres e dar um exemplo recente de, pelo menos, 6 desastres e seu impacto na comunidade ou país. Destacar, pelo menos, um no qual a ADRA respondeu: a) Ciclones, b) Tornados, c) Enchentes / Inundações, d) Secas, e) Tsunamis, f) Incêndios, g) Guerras, h) Erupções vulcânicas.",
+                "As 4 fases na gestão de emergências e desastres são: Prevenção / Mitigação, Preparo, Resposta e Recuperação. Em suas palavras, descrever para o seu instrutor o que cada um desses termos significa e porque são importantes.",
+                "O preparo é chave durante uma emergência ou desastre. Se você fosse construir um kit para tais circunstâncias, descrever para o seu instrutor quais itens seriam incluídos. Discutir as vantagens de escolher itens movidos à bateria e não à eletricidade, e alimentos não perecíveis em vez de perecíveis.",
+                "Desenhar a planta do local onde você vive. Pensar no que faria em 3 dos desastres relacionadas na questão 1. Traçar uma rota de fuga de sua casa e discuti-la com seu instrutor e família.",
+                "Encontrar 3 histórias na Bíblia que envolveram desastres naturais ou emergências políticas. Coloque-se no lugar das pessoas da história e descrever como esses eventos o afetariam.",
+                "Apresentar um breve relatório para o seu Clube de Desbravadores a respeito do que você aprendeu sobre emergências e desastres e de estar preparado para agir nessas circunstâncias."
+            ]
+        },
+        {
+            "id": "ad-006",
+            "categoriaId": "adra",
+            "codigo": "AD 006",
+            "nome": "Alfabetização",
+            "nivel": 2,
+            "ano": 2009,
+            "requisitos": [
+                "Definir o termo alfabetização.",
+                "Pesquisar e descrever com brevidade como 2 ou 3 organizações em sua comunidade ou país promovem a alfabetização ou proveem serviços de alfabetização a crianças e adultos.",
+                "Escrever um parágrafo explicando porque a alfabetização é importante.",
+                "Realizar 3 das seguintes atividades: a) Ajudar alguém a ler um pequeno livro, b) Ler uma pequena história para um grupo de crianças, c) Fazer 10 cartelas de material pedagógico com palavras simples, d) Ler vários capítulos da Bíblia para uma pessoa idosa cega ou incapaz de ler, e) Fazer uma apresentação de 5 minutos sobre alfabetização.",
+                "Escolher 3 palavras e explicar ao seu instrutor como você ensinaria alguém sobre o significado das palavras e como soletrá-las."
+            ]
+        },
+        {
+            "id": "ad-007",
+            "categoriaId": "adra",
+            "codigo": "AD 007",
+            "nome": "Resolução de conflitos",
+            "nivel": 3,
+            "ano": 2009,
+            "requisitos": [
+                "NOTA: É requerida a presença de um adulto mediador para a discussão de grupo. Explicar como Cristo encorajou pessoas em conflito nas seguintes histórias bíblicas: a) João 8:1-11 (Maria Madalena), b) Mateus 18:1-6 (Discípulos), c) 1 Reis 3:16-28 (Salomão e as 2 mulheres).",
+                "Discutir os conflitos de relacionamento, de identidade, raciais e culturais enfrentados pelos adolescentes e jovens em sua comunidade.",
+                "Descrever os tipos de necessidades humanas e apresentar um exemplo da vida real para cada um deles.",
+                "O que significa ouvir ativamente? Pratique o ouvir ativo encenando os conflitos relacionados no item número 2.",
+                "Aplicar o seguinte método de resolução de conflito em um exemplo do item número 2: a) Montar o cenário, b) Reunir informações, c) Identificar o problema, d) Pensar nas soluções, e) Negociar uma solução.",
+                "Explicar como fazer encaminhamento a um conselheiro profissional ou pastor.",
+                "Discutir seus motivos para querer ajudar seus amigos quando enfrentam problemas. O que dizer de uma pessoa que não lhe é tão familiar?"
+            ]
+        },
+        {
+            "id": "ad-008",
+            "categoriaId": "adra",
+            "codigo": "AD 008",
+            "nome": "Reassentamento de refugiados",
+            "nivel": 2,
+            "ano": 2009,
+            "requisitos": [
+                "Descrever algumas causas gerais porque as pessoas se deslocam para outros países como refugiados. Definir também os termos refugiado, deslocado interno e imigrante e explicar como essas palavras são semelhantes ou diferentes.",
+                "Listar as necessidades imediatas que um refugiado pode ter quando chega a um novo país. Descrever como você se sentiria se subitamente tivesse que enfrentar uma nova língua, cultura e ambiente.",
+                "Descobrir que organizações em sua comunidade, país ou no mundo ajudam os refugiados e deslocados internos. Pesquisar sobre o trabalho que eles realizam.",
+                "Descrever em poucas palavras como você poderia ajudar um refugiado ou um deslocado interno em sua comunidade.",
+                "Perguntar a uma pessoa de outro país, que vive em sua comunidade, como ela se ajustou ao novo ambiente. Peça-lhe que descreva os desafios e contrastes que experimentou.",
+                "Fazer um breve relatório para o seu Clube de Desbravadores, igreja ou escola sobre o que você aprendeu sobre refugiados e deslocados internos."
+            ]
+        },
+        {
+            "id": "ad-009",
+            "categoriaId": "adra",
+            "codigo": "AD 009",
+            "nome": "Desenvolvimento comunitário",
+            "nivel": 1,
+            "ano": 2009,
+            "requisitos": [
+                "Definir desenvolvimento comunitário.",
+                "Explicar ao seu instrutor porque alguns países são considerados desenvolvidos enquanto outros são chamados de países em desenvolvimento.",
+                "Mencionar 5 países em desenvolvimento e listar 3 ações que a ADRA realiza neles como ações de desenvolvimento e 2 que se caracterizam como ações assistenciais.",
+                "Ler a respeito de porque existem pobres entre nós no livro O Desejado de Todas as Nações, de Ellen G. White, capítulo 70 - 'Um Destes Meus Pequeninos Irmãos'.",
+                "Descrever, pelo menos, uma necessidade em seu bairro ou município que requeira atenção.",
+                "Escrever um breve plano de desenvolvimento comunitário que pode ser implementado por seu Clube de Desbravadores.",
+                "Participar por, pelo menos, 4 horas em uma das seguintes atividades: a) Ação Solidária Adventista (ASA), b) Projeto voluntário da ADRA, c) Mutirão Social, d) Programa de apoio aos moradores de rua."
             ]
         }
     ]
