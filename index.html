@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0b1b3d">
+    <title>Manual de Especialidades • Águia D'Oeste</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Header Principal -->
+    <header class="app-header">
+        <div class="header-inner">
+            <!-- Ícone simples (pode trocar por uma tag <img> se tiver o logo quadrado) -->
+            <div class="club-icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <div class="header-text">
+                <span>CLUBE DE DESBRAVADORES</span>
+                <h1>ÁGUIA D'OESTE</h1>
+            </div>
+        </div>
+    </header>
+
+    <!-- Banner Central com a Arte da Águia -->
+    <div class="hero-banner">
+        <!-- Aqui entra a sua imagem da Águia inteira -->
+        <img src="fundo.jpg" alt="Logo Águia D'Oeste" class="hero-image">
+    </div>
+
+    <!-- Barra de Busca Flutuante -->
+    <div class="search-wrapper">
+        <div class="search-box">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#94a3b8" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="searchInput" placeholder="Buscar especialidade, código...">
+        </div>
+    </div>
+
+    <!-- Conteúdo Principal -->
+    <main class="app-main">
+        <!-- Tela de Categorias -->
+        <section id="mainView" class="view">
+            <div class="section-title">
+                <h2>Explorar Categorias</h2>
+                <p>Selecione uma área para começar a estudar</p>
+            </div>
+            <div class="categories-grid" id="categoriesGrid"></div>
+        </section>
+
+        <!-- Tela de Especialidades da Categoria -->
+        <section id="specialtiesContainer" class="view hidden">
+            <button class="btn-back" onclick="voltarCategorias()">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="m15 18-6-6 6-6"/></svg>
+                Voltar
+            </button>
+            <div class="section-title">
+                <h2 id="currentCategoryTitle"></h2>
+            </div>
+            <div id="specialtiesList" class="specialties-list"></div>
+        </section>
+    </main>
+
+    <!-- Modal de Detalhes -->
+    <div id="detailsView" class="modal hidden">
+        <div class="modal-overlay" onclick="fecharDetalhes()"></div>
+        <div class="modal-content">
+            <button class="btn-close" onclick="fecharDetalhes()">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 6 6 18M6 6l12 12"/></svg>
+            </button>
+            <div id="detailsContent"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
