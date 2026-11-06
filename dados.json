@@ -1,0 +1,42 @@
+{
+    "categorias": [
+        { "id": "adra", "nome": "ADRA", "icone": "🤝", "desc": "Ações humanitárias e assistência social." },
+        { "id": "artes", "nome": "Artes e Habilidades Manuais", "icone": "🎨", "desc": "Trabalhos manuais, artesanato e música." },
+        { "id": "agricolas", "nome": "Atividades Agrícolas", "icone": "🌱", "desc": "Cultivo, criação de animais e agricultura." },
+        { "id": "missionarias", "nome": "Atividades Missionárias", "icone": "📖", "desc": "Evangelismo, liderança e testemunho." },
+        { "id": "profissionais", "nome": "Atividades Profissionais", "icone": "💼", "desc": "Habilidades voltadas ao mercado de trabalho." },
+        { "id": "recreativas", "nome": "Atividades Recreativas", "icone": "⚽", "desc": "Esportes, jogos e recreação." },
+        { "id": "ciencia", "nome": "Ciência e Saúde", "icone": "🔬", "desc": "Conhecimentos científicos e cuidados com a saúde." },
+        { "id": "natureza", "nome": "Estudo da Natureza", "icone": "🌳", "desc": "Estudo da fauna, flora e meio ambiente." },
+        { "id": "domesticas", "nome": "Habilidades Domésticas", "icone": "🏠", "desc": "Cuidados com o lar, culinária e organização." }
+    ],
+    "especialidades": [
+        {
+            "id": "ad-003",
+            "categoriaId": "adra",
+            "codigo": "AD 003",
+            "nome": "Serviço Comunitário",
+            "nivel": 1,
+            "ano": 2005,
+            "requisitos": [
+                "Ler os seguintes textos bíblicos e explicar o que eles ensinam a respeito do papel que Deus espera que cada cristão desempenhe para satisfazer as necessidades dos pobres e sofredores na comunidade.",
+                "Explique o seguinte ao seu instrutor: a) Qual é o significado do acrônimo ADRA? Apresentar uma breve explanação do que cada letra representa e explicar a diferença entre 'assistência' e 'desenvolvimento'. b) Qual o nome do serviço social prestado pela Igreja Adventista local que ajuda os pobres e sofredores em seu entorno?",
+                "Reunir-se com o líder da Ação Solidária Adventista em sua área e perguntar a respeito dos projetos que sua unidade ou Clube de Desbravadores pode ajudar para satisfazer às necessidades da comunidade local.",
+                "Planejar um projeto de serviço comunitário com a unidade ou Clube de Desbravadores e concluí-lo. Este projeto deve focar certas necessidades que sua comunidade apresenta. O tempo total, desde o planejamento até sua realização, deve ser de aproximadamente 10 horas."
+            ]
+        },
+        {
+            "id": "hm-060",
+            "categoriaId": "artes",
+            "codigo": "HM 060",
+            "nome": "Origami",
+            "nivel": 1,
+            "ano": 1997,
+            "requisitos": [
+                "Definir o que é um origami. Conhecer sua história e desenvolvimento em diferentes países.",
+                "Definir quais são os principais usos do origami atualmente e qual a diferença em relação a como era usado no passado.",
+                "Explicar a importância e utilidade dos diagramas. Conhecer os principais símbolos usados neles."
+            ]
+        }
+    ]
+}
